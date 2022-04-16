@@ -1,0 +1,16 @@
+WEB
+1
+https://rosenberger1.sharepoint.com/sites/InvoicingInputsCollection/_vti_bin/owssvr.dll?XMLDATA=1&List={A1DD8880-E0A3-41B7-9988-1B7196846E5D}&View=CE7D2977-D4CE-401C-9D5D-DE510F8AC147&RowLimit=0&RootFolder=
+
+Selection={A1DD8880-E0A3-41B7-9988-1B7196846E5D}-CE7D2977-D4CE-401C-9D5D-DE510F8AC147
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://rosenberger1.sharepoint.com/sites/InvoicingInputsCollection/_vti_bin
+SharePointListView=CE7D2977-D4CE-401C-9D5D-DE510F8AC147
+SharePointListName={A1DD8880-E0A3-41B7-9988-1B7196846E5D}
+RootFolder=
